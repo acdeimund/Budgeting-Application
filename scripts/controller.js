@@ -69,8 +69,6 @@ function createController(){
 
             // Calculate the expense percentages.
             updatePercentages();
-            // Debugging
-            //console.log(budgetCtrl.getData());
         }
     }
 
